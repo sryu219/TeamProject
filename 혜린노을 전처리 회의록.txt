@@ -1,0 +1,43 @@
+1. null 값 확인		// null값 없음 (^^)
+
+2. 이상값 확인
+	- 숫자형 D = box plot, 막대 그래프 확인
+		Q_E : box plot	(20개)			// 혜린
+		Q_A : 막대 그래프	(20개)			// 노을
+		married : 막대 그래프 (Other 확인)		// 노을
+		tp__(01~10) : 문항 별 막대 그래프
+		urban : 막대 그래프			// 혜린
+
+		
+		
+		
+	- 문자형 D = 범주 외 값 확인
+		age_group : 막대 그래프
+		gender
+		religion : 막대 그래프
+
+		// race : 인종 (보류)
+
+	// Q_A ; 1-5 벗어나는 이상값 없음
+	// education : 교육 수준 ; 범주 벗어나는 이상값 없음. 
+
+
+
+3. 무응답 처리 
+
+education : 교육 수준
+1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree, 0=무응답
+
+engnat : 모국어가 영어
+1=Yes, 2=No, 0=무응답
+
+hand : 필기하는 손
+1=Right, 2=Left, 3=Both, 0=무응답
+
+married : 혼인 상태
+1=Never married, 2=Currently married, 3=Previously married, 0=Other
+
+urban : 유년기의 거주 구역
+1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답
+
+	
