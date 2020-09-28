@@ -1,0 +1,109 @@
+Q_A / Q_E (a~t) 비식별화를 위해 일부 질문은 Secret 처리 
+( Q_E(a~t) : 질문을 답할 때까지의 시간 )
+Qa : Secret
+
+Qb : The biggest difference between most criminals and other people is that the criminals are stupid enough to get caught.
+13. 범죄자들과 다른 일반 사람들의 가장 큰 차이점은, 범죄자들이 잡힐만큼 멍청하다는 것이다.
+
+Qc : Anyone who completely trusts anyone else is asking for trouble.
+12. 누군가를 완전히 믿는 사람은 고생을 자처하는 것이다.
+
+Qd : Secret
+Qe : P.T. Barnum was wrong when he said that there's a sucker born every minute.
+17. P.T. Barnum이 '매 분마다 선천적으로 잘 속는 사람이 태어난다' 라고 말한 것은 틀립니다.
+
+Qf : There is no excuse for lying to someone else.
+7. 누군가에게 거짓말 하는 것은 변명의 여지가 없다.
+
+Qg : Secret
+Qh : Most people forget more easily the death of their parents than the loss of their property.
+20. 대부분의 사람들은 그들의 재산을 잃은 것 보다 부모의 죽음을 더 빨리 잊는다.
+
+Qi : Secret
+Qj : It is safest to assume that all people have a vicious streak and it will come out when they are given a chance.
+5. 모든 사람에게는 악한 경향이 있고, 기회만 주어진다면 그 성향이 표현된다고 가정하는 것이 가장 안전하다.
+
+Qk : All in all, it is better to be humble and honest than to be important and dishonest.
+9. 대체로 겸손하고 정직한 것이, 중요하고 부정직한 것보다 낫다.
+
+
+Ql : Secret
+Qm : It is hard to get ahead without cutting corners here and there.
+18. 여기저기를 질러가지 않는다면 앞으로 나아가기 힘들다(=요령이 없다면 앞으로 나아가기 힘들다).
+
+Qn : Secret
+Qo : The best way to handle people is to tell them what they want to hear.
+2. 사람을 다루는 가장 좋은 방법은 그들이 듣기 원하는 말을 해주는 것이다.
+
+Qp : Secret
+Qq : Most people are basically good and kind.
+4. 대부분의 사람들은 기본적으로 선하며, 착하다.
+
+Qr : One should take action only when sure it is morally right.
+3. 도덕적으로 올바른 일 일때만, 그 행동을 해야 한다.
+
+Qs : It is wise to flatter important people.
+15. 중요한 사람들(자신의 상관, 정부의 요인들 등등)에게 아첨하는 것이 현명하다.
+
+Qt : Secret
+
+------------------------------------------------------------------------------------------------------------------------------
+age_group : 연령
+
+
+education : 교육 수준
+1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree, 0=무응답
+
+
+engnat : 모국어가 영어
+1=Yes, 2=No, 0=무응답
+
+
+familysize : 형제자매 수
+
+
+gender : 성별
+Male, Female
+
+
+hand : 필기하는 손
+1=Right, 2=Left, 3=Both, 0=무응답
+
+
+married : 혼인 상태
+1=Never married, 2=Currently married, 3=Previously married, 0=Other
+
+
+race : 인종
+Asian, Arab, Black, Indigenous Australian, Native American, White, Other
+
+
+religion : 종교
+Agnostic, Atheist, Buddhist, Christian_Catholic, Christian_Mormon, Christian_Protestant, Christian_Other, Hindu, Jewish, Muslim, Sikh, Other
+
+
+tp__(01~10) : items were rated "I see myself as:" _____ such that
+tp01 : Extraverted, enthusiastic.
+tp02 : Critical, quarrelsome.
+tp03 : Dependable, self-disciplined.
+tp04 : Anxious, easily upset.
+tp05 : Open to new experiences, complex.
+tp06 : Reserved, quiet.
+tp07 : Sympathetic, warm.
+tp08 : Disorganized, careless.
+tp09 : Calm, emotionally stable.
+tp10 : Conventional, uncreative.
+
+
+urban : 유년기의 거주 구역
+1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답
+
+
+wr_(01~13) : 실존하는 해당 단어의 정의을 앎
+1=Yes, 0=No
+wf_(01~03) : 허구인 단어의 정의를 앎
+1=Yes, 0=No
+
+
+voted (타겟): 지난 해 국가 선거 투표 여부
+1=Yes, 2=No
