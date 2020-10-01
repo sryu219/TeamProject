@@ -38,3 +38,29 @@ DACON 데이터 활용 예정
 ###### 10/22 PPT/마무리
 ###### 10/23 발표
 
+# ------------------------------------------------------------------------------------------------------------------
+## 1001 회의록 (참여 팀원 : 이혜린, 차노을)
+### 안건 : 전처리 진행상황 정리 및 계획
+#### 회의내용
+##### 1. 전처리 진행상황
+이상값 확인 : 숫자형 D = box plot, 막대 그래프 확인 , 문자형 D = 범주 외 값  확인
+  -> 혜린 노을 전처리 회의록에 추가
+  
+##### 2. 계획
+  (1) 무응답 처리 
+education : 교육 수준
+1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree, 0=무응답
+
+engnat : 모국어가 영어
+1=Yes, 2=No, 0=무응답
+
+hand : 필기하는 손
+1=Right, 2=Left, 3=Both, 0=무응답
+
+married : 혼인 상태
+1=Never married, 2=Currently married, 3=Previously married, 0=Other
+
+urban : 유년기의 거주 구역
+1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답
+
+   (2) 성별 또는 연령별로 어떤 응답이 많은지 등등 특이사항 확인하기
