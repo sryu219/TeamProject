@@ -66,3 +66,45 @@ urban : 유년기의 거주 구역
 
 
    (2) 성별 또는 연령별로 어떤 응답이 많은지 등등 특이사항 확인하기
+   
+   
+## 1002 회의록 (참여 팀원 : 이혜린, 차노을)  
+### 안건 : 전처리 미완성 부분 확인 및 계획
+#### 회의내용
+##### 1. 전처리 진행상황
+전처리 미완성 요인 분석하기 : 
+education : 교육 수준, engnat : 모국어가 영어, hand : 필기하는 손 -> 이혜린
+familysize : 형제자매 수, wr_(01~13) : 실존하는 해당 단어의 정의을 앎, wf_(01~03) : 허구인 단어의 정의를 앎 -> 차노을
+
+##### 2. 전처리 완료된 부분 처리건
+  (1) Q_E : box plot
+    응답의 차이가 매우 커서 boxplot을 그리면 box가 선으로 보일 정도로 작음
+    굉장히 차이가 나는 값들을 최대값 기준을 정해 대체하는 방법, 삭제 하는 방법, 새로운 방법 중 어떤 방법을 쓸 지 고려 필요
+  -> 비대면으로는 진전이 없음. 다음주에 만나서 생각해보기로 함
+
+##### 3. 계획
+  (1) 무응답 처리 
+education : 교육 수준
+1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree, 0=무응답
+
+engnat : 모국어가 영어
+1=Yes, 2=No, 0=무응답
+
+hand : 필기하는 손
+1=Right, 2=Left, 3=Both, 0=무응답
+
+married : 혼인 상태
+1=Never married, 2=Currently married, 3=Previously married, 0=Other
+
+urban : 유년기의 거주 구역
+1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답
+
+
+   (2) 상관/ 연관분석
+   성별 또는 연령별로 어떤 응답이 많은지 
+   Q_E와 Q_A  
+   Q_E와 교육수준 등 연관있는지 등등 특이사항 확인하기
+   
+   
+   
+  
