@@ -103,6 +103,7 @@ urban : 유년기의 거주 구역
 1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답
 
 
+
    (2) 상관/ 연관분석
    
    성별 또는 연령별로 어떤 응답이 많은지 
