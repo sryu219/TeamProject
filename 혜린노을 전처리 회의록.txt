@@ -75,20 +75,35 @@
 
 3. 무응답 처리 
 
-education : 교육 수준
+education : 교육 수준								//혜린
 1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree, 0=무응답
 
-engnat : 모국어가 영어
+
+engnat : 모국어가 영어								//혜린
 1=Yes, 2=No, 0=무응답
 
-hand : 필기하는 손
+
+hand : 필기하는 손									//혜린
 1=Right, 2=Left, 3=Both, 0=무응답
 
-married : 혼인 상태
+
+((( married : 혼인 상태
 1=Never married, 2=Currently married, 3=Previously married, 0=Other
 
 urban : 유년기의 거주 구역
-1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답
+1=Rural (country side), 2=Suburban, 3=Urban (town, city), 0=무응답 )))
+
+
+이외 > 
+familysize : 형제자매 수				//노을
+
+
+wr_(01~13) : 실존하는 해당 단어의 정의을 앎		//노을
+1=Yes, 0=No
+
+
+wf_(01~03) : 허구인 단어의 정의를 앎			//노을
+1=Yes, 0=No
 
 
 
