@@ -77,6 +77,7 @@ married : 혼인 상태
 race : 인종
 Asian, Arab, Black, Indigenous Australian, Native American, White, Other
 
+,"race","education","gender","familysize","religion"
 
 religion : 종교
 Agnostic, Atheist, Buddhist, Christian_Catholic, Christian_Mormon, Christian_Protestant, Christian_Other, Hindu, Jewish, Muslim, Sikh, Other
