@@ -77,7 +77,6 @@ married : 혼인 상태
 race : 인종
 Asian, Arab, Black, Indigenous Australian, Native American, White, Other
 
-,"race","education","gender","familysize","religion"
 
 religion : 종교
 Agnostic, Atheist, Buddhist, Christian_Catholic, Christian_Mormon, Christian_Protestant, Christian_Other, Hindu, Jewish, Muslim, Sikh, Other
@@ -102,6 +101,7 @@ urban : 유년기의 거주 구역
 
 wr_(01~13) : 실존하는 해당 단어의 정의을 앎
 1=Yes, 0=No
+
 wf_(01~03) : 허구인 단어의 정의를 앎
 1=Yes, 0=No
 
