@@ -4,3 +4,6 @@
 - 0.643183976	
 ####	submission_lgbm.csv               
 - 0.7672178921
+
+####	submission_lgbm.csv      10/10
+- 0.7672535992	
